@@ -1,8 +1,8 @@
-# 🐦 Buzzer — Full-Stack Social Media App
+# Buzzer — Full-Stack Social Media App
 
 A modern, full-stack social media platform built with **React**, **Vite**, **Tailwind CSS**, and **Supabase**. Buzzer features real-time posting, likes, comments, user authentication, notifications, and a sleek Twitter-inspired UI with a three-column responsive layout.
 
-## 📸 Screenshots
+## Screenshots
 
 ### Login Page
 ![Login Page](screenshots/login-page.png)
@@ -10,7 +10,7 @@ A modern, full-stack social media platform built with **React**, **Vite**, **Tai
 ### Home Feed
 ![Home Feed](screenshots/feed-page.png)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Vite, Tailwind CSS, Shadcn UI
 - **Backend:** Supabase (Auth, Database, Storage, Realtime)
